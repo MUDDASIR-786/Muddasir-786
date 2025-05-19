@@ -48,10 +48,10 @@ Here are a few highlights of what I've built:
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your-email@example.com]
-- 🌍 Portfolio: [Your Portfolio Link]
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 🐦 Twitter: [Your Twitter Link]
+- 📧 Email: alimuddasir436@gmail.com
+- 🌍 Portfolio: https://muddasir-786.github.io/New-portfolio/
+- 💼 LinkedIn: 
+- 🐦 Twitter(X): 
 
 ---
 
