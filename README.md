@@ -50,8 +50,7 @@ Here are a few highlights of what I've built:
 
 - 📧 Email: alimuddasir436@gmail.com
 - 🌍 Portfolio: https://muddasir-786.github.io/New-portfolio/
-- 💼 LinkedIn: 
-- 🐦 Twitter(X): 
+
 
 ---
 
