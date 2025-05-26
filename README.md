@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Assalamu Alaikum! I'm Muhammad Muddasir
 
 🎓 I'm a **Software Engineer** passionate about building powerful, user-friendly web applications.  
-💻 I specialize in **Frontend Development** with a focus on **HTML**, **CSS**, **JavaScript**, and **React.js**.  
+💻 I specialize in **Frontend Development** with a focus on **HTML**, **CSS**, **JavaScript**.  
 🚀 I love turning creative ideas into real, working products with smooth UI/UX, animations, and responsiveness.
 
 ---
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 🔧 Technologies & Tools
 
 - 🖥️ HTML5, CSS3, Bootstrap, TailwindCSS
-- ⚙️ JavaScript (ES6+), React.js
+- ⚙️ JavaScript (ES6+)
 - 🎨 Responsive UI Design & Animations
 - 🛠️ Git & GitHub for Version Control
 - 🌐 Building Web Apps & Portfolio Sites
@@ -39,7 +39,6 @@ Here are a few highlights of what I've built:
 
 - **🧮 Counter App** – A responsive JavaScript-based counter application with UI styling  
 - **🧴 Perfume Website** – Luxury-themed perfume website with slider images and elegant design  
-- **🎲 Ludo Game** – A fully functional Ludo game with dice logic, token movement, and sound  
 - **🌐 WhiteSpace Website** – Clean and responsive multi-page site with hover effects and animations  
 
 👉 Explore my repositories to see more!
